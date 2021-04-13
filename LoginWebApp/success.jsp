@@ -7,7 +7,7 @@ Please login or create new Id. <br/>
 <%} else {
 %>
 <center>Welcome <%=session.getAttribute("userid")%>
-<h3>DevOps Class - Test2</h3>
+<h3>DevOps Class</h3>
 <h4>13-03-2021</h4>
 </center>
 
